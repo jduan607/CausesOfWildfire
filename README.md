@@ -12,3 +12,21 @@ multinomial logistic regression, to predict wildfire’s cause. We found that K-
 best model overall. Our models had good accuracy with the fire caused by lightning, debris burning; but
 poor results for other causes, such as arson, fireworks, equipment use. Further investigation implied that
 we might not have enough data for those poorly performed causes.
+
+11-Class:
+| | Train Accuracy | Test Accuracy |
+|---|---|---|
+| Model | | |
+Decision Tree(Best) |  52.6% | 46.0% |
+Weighted-Distance KNN (Best) |  51.5% | **47.2%**  |
+Top-1 Multinomial Logistic Regression |  32.6% | 32.6% |
+Top-2 Multinomial Logistic Regression | 42.2% | 42.3% |
+
+4-Class:
+| | Train Accuracy | Test Accuracy |
+|---|---|---|
+| Model | | |
+Decision Tree(Best) |  49.1% | 45.4% |
+Weighted-Distance KNN (Best) | 53.8% | 48.5% |
+Top-1 Multinomial Logistic Regression | 32.2% | 32.0% |
+Top-2 Multinomial Logistic Regression | 59.4% | **59.2%** |
