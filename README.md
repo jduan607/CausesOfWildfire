@@ -3,6 +3,7 @@ CS 760 Machine Learning (Fall 2020) Project
 
 Authors: Jingqi Duan, Huanran Li, Olivia Zhao
 
+## Background
 Wildfire is a major environmental concern that endangering human life, by affecting both physical
 and economical environments. Research has investigated the contributing factors that lead to wildfire
 occurrence. These factors include climate change, past forest fire behaviors, human activities, and weather
@@ -13,6 +14,16 @@ best model overall. Our models had good accuracy with the fire caused by lightni
 poor results for other causes, such as arson, fireworks, equipment use. Further investigation implied that
 we might not have enough data for those poorly performed causes.
 
+## Machine Learning Models
++ K-nearest neighbors (KNN)
++ Deicision tree
++ Naive bayes (NB)          
++ Multinomial logistic regression    
+
+## Software
++ Python for implementing and train our models
+
+## Result
 11-Class (lightning, equipment use, smoking, campfire, debris burning, railroad, arson, children, fireworks, powerline, structure):
 | Model | Train Accuracy | Test Accuracy |
 |---|---|---|
