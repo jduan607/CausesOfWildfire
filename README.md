@@ -1,7 +1,7 @@
 # Investigating Causes of Wildfire in the United States
 CS 760 Machine Learning (Fall 2020) Project
 
-Authors: Jingqi Duan, Huanran Li, and Olivia Zhao
+Authors: Jingqi Duan, Huanran Li, Olivia Zhao
 
 Wildfire is a major environmental concern that endangering human life, by affecting both physical
 and economical environments. Research has investigated the contributing factors that lead to wildfire
