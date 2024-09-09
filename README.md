@@ -21,7 +21,7 @@ we might not have enough data for those poorly performed causes.
 + Multinomial logistic regression    
 
 ## Software
-+ Python *scikit-learn* for implementing and train our models
++ *scikit-learn* for implementing and train our models
 
 ## Result
 11-Class (lightning, equipment use, smoking, campfire, debris burning, railroad, arson, children, fireworks, powerline, structure):
