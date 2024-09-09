@@ -1,5 +1,5 @@
 # Investigating Causes of Wildfire in the United States
-CS 760 Machine Learning (Fall 2020) Project
+CS760 Machine Learning (Fall 2020) Project
 
 Authors: Jingqi Duan, Huanran Li, Olivia Zhao
 
